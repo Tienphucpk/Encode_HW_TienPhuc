@@ -45,7 +45,7 @@ public class Signin_Signup extends JFrame {
 		panel.setLayout(new CardLayout(0, 0));
 		
 		JPanel panel_1 = new JPanel();
-		panel_1.setBackground(new Color(175, 238, 238));
+		panel_1.setBackground(new Color(155, 138, 138));
 		panel.add(panel_1, "t1");
 		panel_1.setLayout(null);
 		
